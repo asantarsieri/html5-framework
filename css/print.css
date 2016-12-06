@@ -205,3 +205,9 @@ a.document {
 	background-repeat: no-repeat;
 	background-position: 0 0;
 	}
+
+/* =js
+--------------------------------------------------------------- */
+.js-matchheight {
+	height: auto !important;
+	}
